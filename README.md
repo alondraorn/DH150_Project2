@@ -1,8 +1,5 @@
 # DH150_Project2
-DH150 Usability Test
-
-# Pilot Usability Test 
-
+Pilot Usability Test 
 
 
 ## Introduction 
@@ -14,7 +11,7 @@ the website is lacking or already has. For instance, by reading the participant'
 
 ## Survey Link
 
-Here is a link to the moderator script and participant survey.I've added you as a collaborator so you can edit the script also. (https://docs.google.com/forms/d/1aAWFNN2KhPZEq1w_hh6BXRTz44rZL5uh0e1b1gpFvT0/edit?usp=sharing)
+Here is a link the google form where the survey and moderator script is. I have allowed you to edit.  [Click Here](https://docs.google.com/forms/d/1vJq0Z6Nfgel7qU4aImzXbZKg-hCpPOsBrw8oUipglHU/prefill) 
 
 ## Video Link
 
@@ -22,4 +19,4 @@ Here is a link to the usability test I did with "Paula Oum." It is posted on You
 
 ## Reflection 
 
-The 
+The UT was extremely helpful in helping me discover what 10 heuristic values I was lacking. I thought certain aspects of the "Space Jam" website were intuitive but this testing showed me otherwise. It helped me see an unbiased opinion of someone who has never used this website before. Their comments truly helped me understand what aspects of the website doesn't come naturally to a user and what does. I chose to interview "Paul" as she has never used this website before.There were multiple things that went well during this userability test. First of all, I was able to find a good, quiet setting to hold the test so the user would not be distracted by outside distrubances, and thus, she was able to put her full atttention to the test. Another thing that went well, is that although English was not her first language, she was able to get through the test and understand how to execute and answer each question. Lastly, the most important thing that went well, is I was able to discover what 10 hurisitics the website was lacking based on her response. The first thing that stood out in all of the activities is that there was no "aesthetic and minimalistic design". I saw that multiple times it was hard for Paula to find certain things on the website. For instance, she could easily pinpoint the games tab as well as the visual effect person's bio. Although it was easy for me to know where these were since I've explored this website before, this test told me that finding certain subjects in the website is not intuititve because of the clutter and position of the tabs. Another hueristic that stood out to me was the "match between system and the real world" as Paula had a hard time finding where the music section would be and the games. She would make comments that expressed her frustrations about what icon led to a certain page. Thus, if I were to redesign this website, I need to make sure that these icons, the planets, follow real world conventiosn more. I think it will be difficult to properly portray visibility of system status and still maintain the aesthetic of the page. On the other hand, there were a few things that did not go well. Because I did not pay her like you would normally do in a UT test, I felt that she was less motivated to take the test seriously. In the task section, because she found the website so confusing, she was quick to give up and not follow through the procedures. I also found her taking shortcuts (like doing Contr+F) instead of acutally looking through for informaiton. Furthermore, one other thing that did not go well was that I was too familiar with the subject. Because of this, I could not maintain a professionalism and found some of her comments so funny that I could not help but laugh. Next time, I think it would be helpful to choose someone that wasn't a close friend. Overall, this UT test was extremely  helpful in giving me ideas about what aspects of my website I need to improve on.
