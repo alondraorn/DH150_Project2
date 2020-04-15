@@ -15,7 +15,7 @@ Here is a link the google form where the survey and moderator script is. I have 
 
 ## Video Link
 
-Here is a link to the usability test I did with "Paula Oum." It is posted on Youtube. [Click Here to Download Mp4 File](https://www.youtube.com/watch?v=DcmfI_NqW0Y&feature=youtu.be)
+Here is a link to the usability test I did with "Paula Oum." It is posted on Youtube. [Click Here to watch Youtube Video](https://www.youtube.com/watch?v=DcmfI_NqW0Y&feature=youtu.be)
 
 ## Reflection 
 
